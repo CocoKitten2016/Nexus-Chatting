@@ -73,7 +73,7 @@ wss://something.trycloudflare.com/ws
 
 ---
 
-## 🐧 Linux Setup
+## 🐧 Linux/mac Setup
 
 ### 1. Install Bun
 
